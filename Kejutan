@@ -1,0 +1,5 @@
+http://localhost:2525/templates/camera_temp/index.html
+http://localhost:2525/templates/microphone/index.html
+http://localhost:2525/templates/nearyou/index.html
+http://localhost:2525/templates/normal_data/index.html
+http://localhost:2525/templates/weather/index.html
